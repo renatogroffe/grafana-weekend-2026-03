@@ -78,9 +78,7 @@ Local: **Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco 
 
 ![Fábio palestrando 2](img/fabio-13.jpeg)
 
-![Fábio palestrando 3](img/fabio-13.jpeg)
-
-
+![Fábio palestrando 3](img/fabio-19.jpg)
 
 ![Danrlei palestrando 1](img/danrlei-04.jpeg)
 
