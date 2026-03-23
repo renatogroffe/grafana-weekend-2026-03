@@ -1,4 +1,4 @@
-# Grafana Weekend Mar-2026: 
+# Grafana Weekend Mar-2026: k6, Grafana, Prometheus, Azure...
 Fotos e informações gerais sobre o evento "Grafana Weekend", realizado na cidade de São Paulo-SP.
 
 Data: **21/03/2026 (sábado)**
