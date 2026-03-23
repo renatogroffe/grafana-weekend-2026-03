@@ -11,7 +11,7 @@ Organizadores:
 
 Número de participantes: **50 pessoas**
 
-Deixo aqui meus agradecimentos ao **SENAI**, à **Vericode** e à **Grafana Labs** por todo apoio para que o evento acontecesse.
+Deixo aqui meus agradecimentos ao **SENAI (Atila Olivi)**, à **Grafana Labs (Ewa Magiera, Shanna Gregory, Tiago Moreira Vieira, Rafael Nicaretta)** e à **Vericode (Marcelo Marchi, Mateus Santos, Joab Junior, Roberto Shinoda, Thiago Medeiros)** por todo apoio para que o evento acontecesse.
 
 ---
 
