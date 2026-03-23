@@ -6,22 +6,20 @@ Data: **21/03/2026 (sábado)**
 Organizadores:
 - **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador, MTAC)**
 - **Atila Olivi (SENAI)**
-- **Fábio Araújo (AzureBrasil.cloud)**
+- **Fábio Araújo (Dev Referências)**
 - **Milton Camara Gomes (Microsoft MVP, MTAC)**
 
-Número de participantes: **42 pessoas**
+Número de participantes: **50 pessoas**
 
 ---
 
 Apresentações/talks que aconteceram durante o evento:
 
-_# GitHub Agentic Workflows_
+_# Estratégias para Testes de Performance com k6_
 
-Palestrante: **Vinicius Moura (Microsoft MVP)**
+Palestrante: **Fábio Araújo (Dev Referências)**
 
-Tecnologias e tópicos abordados: **GitHub, GitHub Actions, GitHub Copilot, Inteligência Artificial, DevOps, LLMs, AI Agents, MCP, .NET, C#, ASP.NET Core, Minimal APIs, Docker, Containers, Microsoft Azure, Azure Container Apps...**
-Tecnologias e tópicos abordados: **Grafana k6, Testes de Carga, Performance em Aplicações, GitHub, GitHub Actions, Azure DevOps, Azure Pipelines, Azure Repos, .NET 10, C#, ASP.NET Core, Minimal APIs,Docker, Kubernetes, Azure Container Apps, OpenTelemetry, Application Insights, Azure Monitor, Windows, Linux, macOS, xk6, MCP, Apache Kafka, PostgreSQL, SQL Server...**
-
+Tecnologias e tópicos abordados: **k6, Testes de Carga, Estratégias de Testes, Automação, DevOps, QA, JavaScript, Go...**
 
 _# PromQL além do básico: do Zero ao insight em produção!_
 
@@ -36,7 +34,6 @@ Palestrantes:
 - **Milton Camara Gomes (Microsoft MVP, MTAC)**
 
 Tecnologias e tópicos abordados: **Microsoft Azure, Grafana, Azure Managed Grafana, Microsoft Entra ID, Kubernetes, Prometheus, Azure Kubernetes Service, OpenTelemetry, Azure App Service, Azure Container Apps, Microsoft Foundry, Observabilidade, Monitoramento, DevOps, DevSecOps...**
-
 
 _# Painel: DevOps, Observabilidade e Monitoramento no mundo real: como soluções como Grafana, OpenTelemetry, Azure DevOps e GitHub Actions podem descomplicar a sua vida?_
 
