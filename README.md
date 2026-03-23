@@ -58,6 +58,8 @@ Tecnologias e tópicos abordados: **Grafana, OpenTelemetry, DevOps, DevSecOps, M
 
 ---
 
+## Fotos
+
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
 Este evento foi uma parceria entre a comunidade [**Grafana & Friends São Paulo**](https://www.meetup.com/pt-br/grafana-and-friends-sao-paulo/), a [**Vericode**](https://vericode.com.br/pt) e a [**Escola Senai Suíço-Brasileira Paulo Ernesto Tolle**](https://suicobrasileira.sp.senai.br/).
@@ -76,9 +78,15 @@ Local: **Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco 
 
 ![Fábio palestrando 2](img/fabio-13.jpeg)
 
+![Fábio palestrando 3](img/fabio-13.jpeg)
+
+
+
 ![Danrlei palestrando 1](img/danrlei-04.jpeg)
 
 ![Danrlei palestrando 2](img/danrlei-10.jpeg)
+
+![Danrlei palestrando 3](img/danrlei-12.jpg)
 
 ![Case Vericode 1](img/case-vericode-04.jpeg)
 
