@@ -66,15 +66,30 @@ Local: **Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco 
 
 ---
 
-![Abertura do evento](img/abertura-03.jpeg)
+![Abertura do evento 1](img/abertura-03.jpeg)
 
-![Abertura do evento](img/abertura-04.jpeg)
+![Abertura do evento 2](img/abertura-04.jpeg)
+
+![Fábio palestrando 1](img/fabio-03.jpeg)
+
+![Fábio palestrando 2](img/fabio-13.jpeg)
+
+![Danrlei palestrando 1](img/danrlei-04.jpeg)
+
+![Danrlei palestrando 2](img/danrlei-10.jpeg)
 
 ![Case Vericode 1](img/case-vericode-04.jpeg)
 
 ![Case Vericode 2](img/case-vericode-05.jpeg)
 
+![Renato e Milton palestrando 1](img/renato-milton-05.jpeg)
+
+![Renato e Milton palestrando 2](img/renato-milton-08.jpeg)
 
 ![Painel 1](img/painel-07.jpeg)
 
 ![Painel 2](img/painel-09.jpg)
+
+![Público 1](img/publico-03.jpeg)
+
+![Público 2](img/publico-01.jpeg)
