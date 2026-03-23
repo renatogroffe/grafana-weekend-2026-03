@@ -30,7 +30,7 @@ Tecnologias e tópicos abordados: **Grafana, Prometheus, PromQL, Kubernetes, Obs
 _# Vericode: apresentando a empresa + um case real com Grafana e OpenTelemetry!_
 
 Palestrantes:
-- **Danrlei Souza (Vericode)**
+- **Thiago Medeiros (Vericode)**
 - **Roberto Shinoda (Vericode)**
 - **Joab Junior (Vericode)**
 
