@@ -11,7 +11,7 @@ Organizers:
 
 Number of participants: **50 people**
 
-I would like to express my thanks to **SENAI**, **Vericode**, and **Grafana Labs** for all the support in making this event happen.
+I would like to express my gratitude to **SENAI (Atila Olivi)**, **Grafana Labs (Ewa Magiera, Shanna Gregory, Tiago Moreira Vieira, Rafael Nicaretta)** and **Vericode (Marcelo Marchi, Mateus Santos, Joab Junior, Roberto Shinoda, Thiago Medeiros)** for all the support in making this event happen.
 
 ---
 
@@ -185,7 +185,6 @@ I had the pleasure of attending the following presentations:
 My biggest takeaway was: observability needs to be a preventative tool, seeking to refine our practices in order to anticipate problems, reduce costs, and use this data not only for internal infrastructure but also to assist in business decision-making.
 
 I leave this event with a wealth of ideas to apply and the certainty that the focus should always be on the connection between infrastructure, data, and strategic impact.
-
 
 ![Feedback 5](img/feedback-06.png)
 
