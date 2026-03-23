@@ -27,6 +27,15 @@ Palestrante: **Danrlei Souza (Grafana Champion)**
 
 Tecnologias e tópicos abordados: **Grafana, Prometheus, PromQL, Kubernetes, Observabilidade, Monitoramento...**
 
+_# Vericode: apresentando a empresa + um case real com Grafana e OpenTelemetry!_
+
+Palestrantes:
+- **Danrlei Souza (Vericode)**
+- **Roberto Shinoda (Vericode)**
+- **Joab Junior (Vericode)**
+
+Tecnologias e tópicos abordados: **Grafana, OpenTelemetry, Observabilidade, Monitoramento, Alloy, Tempo, Loki, Mimir, Grafana Cloud, Kubernetes, Docker, Node.js...**
+
 _# Azure Managed Grafana: monitoramento na nuvem com eficiência e flexibilidade_
 
 Palestrantes:
