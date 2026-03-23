@@ -1,0 +1,89 @@
+I attended the Grafana Weekend at SENAI Suíço-Brasileiro 🇨🇭🇧🇷 and had contact with very practical content about Observability, Performance, and Monitoring in real environments.
+
+More than tools, the event reinforced an essential point:
+👉 Observability is about understanding the system in production, not just viewing graphs.
+
+⸻
+
+🔹 Performance Testing with k6 (Fábio Araújo)
+
+I reinforced important concepts about types of tests:
+ • Smoke → quickly validate the script
+ • Load → behavior under normal usage
+ • Stress → beyond expected levels
+ • Soak → endurance over time (detecting memory leaks)
+ • Spike → unexpected peaks (e.g., ticket sales)
+ • Breakpoint → discover the system's real limit
+
+👉 Insight: each test answers a different question about the system.
+
+⸻
+
+🔹 PromQL beyond the basics: from zero to insight in production (Danrlei Souza)
+
+This is where I expanded my vision the most.
+
+A scenario presented:
+A CTO wants to know if the cluster is saturating.
+
+The system still works… but it's already at its limit.
+
+👉 This connects directly with the Golden Signals:
+ • Latency
+ • Error rate
+ • Throughput
+ • Saturation
+
+But the most critical point was another:
+
+A poorly constructed PromQL query can:
+ • Pull thousands of unnecessary time series
+ • Generate concurrent queries (e.g., via Thanos)
+ • Increase cost and resource consumption
+ • And even impact the monitoring environment itself
+
+👉 In other words: observing incorrectly can cause problems in production.
+
+Insight I take away:
+PromQL is not just syntax — it's understanding metrics, labels, and context.
+
+⸻
+
+🔹 Azure Managed Grafana & Observability in practice (Renato Groffe and Milton Camara Gomes)
+
+Very strong discussion about:
+ • Pillars of Observability:
+ • Logs
+ • Metrics
+ • Traces (request timeline)
+ • Integration of multiple sources:
+ • Azure Monitor
+ • AWS CloudWatch
+ • Centralization with Azure Managed Grafana
+
+But the main takeaway was the connection with the business.
+
+Real example:
+Monitoring an omnichannel scenario with Service Bus and channels like WhatsApp, where queues, messages, and flows directly impact operations.
+
+👉 Metrics without business context don't generate value.
+
+⸻
+
+🔹 AI applied to operations
+
+An interesting case showed the use of AI to analyze customer service calls:
+ • Automatic service evaluation
+ • Checklist verification
+ • Much greater scale than manual analysis
+
+👉 This transforms observability into operational intelligence.
+
+⸻
+
+I leave this event with a clearer vision:
+
+👉 The professional who stands out is not the one who only knows tools.
+👉 It's the one who connects infrastructure, data, and business impact.
+
+I continue evolving in this direction.

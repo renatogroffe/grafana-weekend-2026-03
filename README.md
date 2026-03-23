@@ -88,9 +88,13 @@ Local: **Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco 
 
 ![Renato e Milton palestrando 2](img/renato-milton-08.jpeg)
 
+![Renato e Milton palestrando 3](img/renato-milton-19.jpeg)
+
 ![Painel 1](img/painel-07.jpeg)
 
 ![Painel 2](img/painel-09.jpg)
+
+![Painel 3](img/painel-14.jpeg)
 
 ![Público 1](img/publico-03.jpeg)
 
