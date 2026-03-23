@@ -132,9 +132,60 @@ Thank you again for the opportunity, Renato Groffe, Milton Camara Gomes, and eve
 
 ![Feedback 2](img/feedback-07.png)
 
+_Ricardo Alves de Melo_
+
+Link: **https://www.linkedin.com/feed/update/urn:li:activity:7441800993563889664/**
+
+Last Saturday I had the opportunity to participate in the Grafana Weekend, organized by the Grafana & Friends São Paulo community, in partnership with Grafana Labs and Vericode, at SENAI Suíço-Brasileira.
+
+It was a very enriching learning event, with content focused on performance and observability testing, covering tools such as K6, Azure DevOps, Prometheus, and Grafana.
+
+In addition to the technical content, one of the most valuable aspects was being able to hear the practical experience of professionals who are a benchmark in the market, sharing real day-to-day challenges and how they deal with highly complex scenarios.
+
+Events like this reinforce how much the area of quality and software engineering is constantly evolving, and the importance of always learning and connecting with the community.
+
+Thank you to the speakers Fábio Araújo, Danrlei Souza, Milton Camara Gomes, Renato Groffe, and Mayumi Shingaki.
+
 ![Feedback 3](img/feedback-04.png)
 
+_Miguel Piva_
+
+Link: **https://www.linkedin.com/feed/update/urn:li:activity:7441853822324441088/**
+
+Last Saturday, March 21st, I had the opportunity to participate in Grafana Weekend, an event organized at the SENAI Swiss-Brazilian school by Grafana & Friends São Paulo and Grafana Labs, and learn about monitoring, observability, and related topics. The presentations were:
+
+- "Performance Testing with k6", with Fábio Araújo >> Using k6, various load tests were presented, such as load testing, spike testing, and breakpoint testing, explaining the test, its objectives, and in which real-world scenarios it could be useful, for example, in an API update or a marketing campaign.
+
+- "PromQL Beyond the Basics: From Zero to Production Insights!", with Danrlei Souza >> It was demonstrated how the PromQL language can be used to analyze time series and diagnose a multi-tenant infrastructure.
+
+- "Observability with Grafana Cloud," with Roberto Shinoda and Thiago Medeiros >> A case study where an architecture was adapted for the implementation of the OpenTelemetry standard using tools such as Fluent Bit, Ottel Collector, and Grafana Alloy.
+
+- "Azure Managed Grafana: Efficient and Flexible Cloud Monitoring," with Milton Camara Gomes and Renato Groffe >> Presentations covered everything from the pillars of observability to the service that unites Grafana and Azure, Azure Managed Grafana, followed by a practical demonstration of a project using this service.
+
+And finally, a panel discussion on the theme "DevOps, Observability, and Monitoring in the Real World: How solutions like Grafana, OpenTelemetry, Azure DevOps, and GitHub Actions can simplify your life?", where Danrlei Souza, Mayumi Shingaki, Milton Camara Gomes, and Renato Groffe presented their experiences and impressions on the topic.
+
 ![Feedback 4](img/feedback-05.png)
+
+_Daniel Sousa_
+
+Link: **https://www.linkedin.com/feed/update/urn:li:activity:7441863805069860864/**
+
+Monitoring isn't just about graphs; it's about business health and strategic decision-making.
+
+Last Saturday, along with my partner Beatriz Liberato, I had the privilege of participating in Grafana and Friends, by Grafana Labs, at SENAI Suíço-Brasileira. It was a day of immersion in technologies that are the foundation when it comes to observability and environment monitoring.
+
+What impressed me most was the performance and technical mastery of all the speakers. Seeing professionals of this caliber sharing the "real world" of observability reinforces how much our community is maturing and how many people contribute with this type of content.
+
+I had the pleasure of attending the following presentations:
+* Strategies for Performance Testing with k6 – with Fábio Araújo.
+* PromQL beyond the basics: from Zero to production insight! – with Danrlei Souza.
+* Azure Managed Grafana: Efficient and flexible cloud monitoring – with Milton Camara Gomes and Renato Groffe.
+* DevOps, Observability, and Monitoring in the Real World – Panel with Mayumi Shingaki, Milton Camara Gomes, Renato Groffe, and Danrlei Souza.
+
+My biggest takeaway was: observability needs to be a preventative tool, seeking to refine our practices in order to anticipate problems, reduce costs, and use this data not only for internal infrastructure but also to assist in business decision-making.
+
+I leave this event with a wealth of ideas to apply and the certainty that the focus should always be on the connection between infrastructure, data, and strategic impact.
+
 
 ![Feedback 5](img/feedback-06.png)
 
