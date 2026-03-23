@@ -63,3 +63,11 @@ Este evento foi uma parceria entre a comunidade [**Grafana & Friends São Paulo*
 Formulário utilizado para inscrições: [**Meetup**](https://www.meetup.com/pt-br/grafana-and-friends-sao-paulo/events/313623760/)
 
 Local: **Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco de Andrade Filho, 379 - Santo Amaro - São Paulo/SP - CEP 04757-000**
+
+---
+
+![Abertura do evento](img/abertura-04.jpeg)
+
+![Case Vericode 1](img/case-vericode-04.jpeg)
+
+![Case Vericode 2](img/case-vericode-05.jpeg)
