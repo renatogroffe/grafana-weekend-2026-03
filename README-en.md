@@ -274,3 +274,15 @@ I leave this event with a clearer vision:
 I continue evolving in this direction.
 
 ![Feedback 6](img/feedback-03.png)
+
+_Gustavo Tideman Sartorio_
+
+Last Saturday, I had the opportunity to attend the Grafana & Friends event at SENAI Suíço-Brasileira.
+
+The event featured excellent sessions covering topics such as load testing with K6 with Fábio Araújo, PromQL with Danrlei Souza, Grafana on Azure with Milton Camara Gomes and Renato Groffe, and a complete observability architecture presented by the Vericode team.
+
+It was a very enriching experience, with practical and relevant content for everyday work, as well as a great opportunity to connect and exchange knowledge with the community.
+
+Thanks to all the speakers and organizers for such a great event. Always learning and growing!
+
+![Feedback 7](img/feedback-09.png)
