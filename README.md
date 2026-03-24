@@ -70,6 +70,8 @@ Local: **Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco 
 
 ---
 
+![Banner Palestrantes](img/grafana-weekend-banner-speakers.jpeg)
+
 ![Abertura do evento 1](img/abertura-03.jpeg)
 
 ![Abertura do evento 2](img/abertura-04.jpeg)
@@ -107,6 +109,8 @@ Local: **Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco 
 ![Público 1](img/publico-03.jpeg)
 
 ![Público 2](img/publico-01.jpeg)
+
+![Banner](img/grafana-2026-03.png)
 
 ## Feedbacks no LinkedIn
 

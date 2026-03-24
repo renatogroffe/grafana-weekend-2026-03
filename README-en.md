@@ -70,6 +70,8 @@ Location: **Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Bran
 
 ---
 
+![Banner Speakers](img/grafana-weekend-banner-speakers.jpeg)
+
 ![Event opening 1](img/abertura-03.jpeg)
 
 ![Event opening 2](img/abertura-04.jpeg)
@@ -107,6 +109,8 @@ Location: **Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Bran
 ![Audience 1](img/publico-03.jpeg)
 
 ![Audience 2](img/publico-01.jpeg)
+
+![Banner](img/grafana-2026-03.png)
 
 ## Feedbacks on LinkedIn
 
