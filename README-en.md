@@ -286,3 +286,11 @@ It was a very enriching experience, with practical and relevant content for ever
 Thanks to all the speakers and organizers for such a great event. Always learning and growing!
 
 ![Feedback 7](img/feedback-09.png)
+
+_Sheila Cristina Barreto_
+
+I had the opportunity to participate in the Grafana Weekend in São Paulo (March 21st), held at the SENAI Swiss-Brazilian School Paulo Ernesto Tolle.
+
+It was an incredible meeting for exchanging knowledge about observability, performance, and testing, with practical discussions involving k6, Grafana, Prometheus, and Azure.
+
+![Feedback 8](img/feedback-10.png)
