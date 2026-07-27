@@ -58,8 +58,6 @@ Technologies and topics covered: **Grafana, OpenTelemetry, DevOps, DevSecOps, Mi
 
 ---
 
-## Photos
-
 Access this [**link**](/img/) to view all photos from the presentations.
 
 This event was a partnership between the [**Grafana & Friends São Paulo**](https://www.meetup.com/pt-br/grafana-and-friends-sao-paulo/) community, [**Vericode**](https://vericode.com.br/pt), and the [**Escola Senai Suíço-Brasileira Paulo Ernesto Tolle**](https://suicobrasileira.sp.senai.br/).
